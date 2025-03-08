@@ -1,3 +1,8 @@
+// Time Complexity : O(n log n) on average, O(n^2) in the worst case
+// Space Complexity : O(log n) due to recursive stack calls
+// Did this code successfully run on Leetcode : N/A
+// Any problem you faced while coding this : No
+
 import java.util.Stack;
 class IterativeQuickSort { 
     void swap(int arr[], int i, int j) 

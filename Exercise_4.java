@@ -1,3 +1,8 @@
+// Time Complexity : O(n log n)
+// Space Complexity : O(n)
+// Did this code successfully run on Leetcode : N/A
+// Any problem you faced while coding this : No
+
 class MergeSort 
 { 
     // Merges two subarrays of arr[]. 
